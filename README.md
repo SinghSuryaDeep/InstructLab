@@ -1,362 +1,248 @@
-## THE CONTEMPT OF COURTS ACT, 1971
+# Oppenheimer (film)
+Oppenheimer is a 2023 epic biographical thriller drama film[a] written, directed, and produced by Christopher Nolan.[8] It follows the life of J. Robert Oppenheimer, the American theoretical physicist who helped develop the first nuclear weapons during World War II. Based on the 2005 biography American Prometheus by Kai Bird and Martin J. Sherwin, the film chronicles Oppenheimer's studies, his direction of the Los Alamos Laboratory and his 1954 security hearing. Cillian Murphy stars as Oppenheimer, alongside Robert Downey Jr. as the United States Atomic Energy Commission member Lewis Strauss. The ensemble supporting cast includes Emily Blunt, Matt Damon, Florence Pugh, Josh Hartnett, Casey Affleck, Rami Malek, and Kenneth Branagh.
 
-## __________
+Oppenheimer was announced in September 2021. It is Nolan's first film not distributed by Warner Bros. Pictures since Memento (2000), due to his conflicts regarding the studio's simultaneous theatrical and HBO Max release schedule.[9] Murphy was the first cast member to sign on the following month, with the rest joining between November 2021 and April 2022. Pre-production began by January 2022, and filming took place from February to May. The cinematographer, Hoyte van Hoytema, used a combination of IMAX 65 mm and 65 mm large-format film, including, for the first time, scenes in IMAX black-and-white film photography. As with many of his previous films, Nolan used extensive practical effects, with minimal compositing.
 
-## ARRANGEMENT OF SECTIONS
+Oppenheimer premiered at Le Grand Rex in Paris on July 11, 2023, and was theatrically released in the United States and the United Kingdom ten days later by Universal Pictures. Its concurrent release with Warner Bros.'s Barbie was the catalyst of the "Barbenheimer" phenomenon, encouraging audiences to see both films as a double feature. Oppenheimer grossed over $976 million worldwide, becoming the third-highest-grossing film of 2023, the highest-grossing World War II-related film, the highest-grossing biographical film and the second-highest-grossing R-rated film.
 
-# __________
+Oppenheimer received critical acclaim. The recipient of many accolades, Oppenheimer won seven Academy Awards, including Best Picture, Best Director for Nolan, Best Actor for Murphy and Best Supporting Actor for Downey. It also won five Golden Globe Awards (including Best Motion Picture – Drama) and seven British Academy Film Awards (including Best Film), and was named one of the top ten films of 2023 by the National Board of Review and the American Film Institute.
 
-# SECTIONS
+Plot
+In 1926, the 22-year-old doctoral student J. Robert Oppenheimer grapples with anxiety and homesickness while studying experimental quantum physics under Patrick Blackett at the University of Cambridge. Oppenheimer clashes with Blackett and leaves him a poisoned apple but later retrieves it. Visiting scientist Niels Bohr advises Oppenheimer to study theoretical physics at the University of Göttingen.
 
-1. Short title and extent.
-2. Definitions.
-3. Innocent publication and distribution of matter not contempt.
-4. Fair and accurate report of judicial proceeding not contempt.
-5. Fair criticism of judicial act not contempt.
-6. Complaint against presiding officers of subordinate courts when not contempt.
-7. Publication of information relating to proceedings in chambers or in camera not contempt except
-    in certain cases.
-8. Other defences not affected.
-9. Act not to imply enlargement of scope of contempt.
-10. Power of High Court to punish contempts of subordinate courts.
-11. Power of High Court to try offences committed or offenders found outside jurisdiction.
-12. Punishment for contempt of court.
-13. Contempts not punishable in certain cases.
-14. Procedure where contempt is in the face of the Supreme Court or a High Court.
-15. Cognizance of criminal contempt in other cases.
-16. Contempt by judge, magistrate or other person acting judicially.
-17. Procedure after cognizance.
-18. Hearing of cases of criminal contempt to be by Benches.
-19. Appeals.
-20. Limitation for actions for contempt.
-21. Act not to apply to Nyaya Panchayats or other village courts.
-22. Act to be in addition to, and not in derogation of, other laws relating to contempt.
-23. Power of Supreme Court and High Courts to make rules.
+Oppenheimer completes his PhD and meets scientist Isidor Isaac Rabi. They later meet theoretical physicist Werner Heisenberg in Switzerland. Wanting to expand quantum physics research in the US, Oppenheimer teaches at the University of California, Berkeley and the California Institute of Technology. He marries Katherine "Kitty" Puening, a biologist and ex-communist, and has an intermittent affair with Jean Tatlock, a troubled communist psychiatrist who later commits suicide.
 
-# 24. Repeal.
+When nuclear fission is discovered in 1938 after the Germans succeed in splitting the atom, Oppenheimer realizes it can be weaponized. In 1942, during World War II, US Army Colonel Leslie Groves, the director of the Manhattan Project, recruits Oppenheimer as the director of the Los Alamos Laboratory to develop an atomic bomb. Oppenheimer fears the German nuclear research program, led by Heisenberg, might yield a fission bomb for the Nazis.
 
+Oppenheimer assembles a team consisting of Rabi, Hans Bethe, and Edward Teller, and collaborates with the scientists Enrico Fermi, Leo Szilard, and David L. Hill at the University of Chicago. Teller's calculations reveal an atomic detonation could destroy the world. After consulting with Albert Einstein, Oppenheimer concludes the chances are "near zero". Teller attempts to leave the project after his proposal to construct a hydrogen bomb is rejected, but Oppenheimer convinces him to stay.
 
-# THE CONTEMPT OF COURTS ACT, 1971
+After Germany's surrender in 1945, some scientists question the bomb's relevance. Oppenheimer believes it would end the ongoing Pacific War and save lives. The Trinity test is successful, and President Harry S. Truman orders the atomic bombings of Hiroshima and Nagasaki, resulting in Japan's surrender. Though publicly praised, Oppenheimer is guilt-ridden and haunted by the destruction and mass fatalities. After Oppenheimer expresses his guilt to Truman, the president berates him and dismisses his plea to cease further atomic development.
 
-# ACT NO. 70 OF 1971
+As an advisor to the United States Atomic Energy Commission (AEC), Oppenheimer's stance generates controversy, while Teller's hydrogen bomb receives renewed interest amidst the burgeoning Cold War. AEC Chairman Lewis Strauss resents Oppenheimer for publicly dismissing Strauss's concerns about exporting radioactive isotopes and for recommending negotiations with the Soviet Union after the Soviets successfully detonate their own bomb. Strauss also believes that Oppenheimer denigrated him during a conversation Oppenheimer had with Einstein in 1947.
 
-```
-[24th December, 1971 .]
-```
-# An Act to define and limit the powers of certain courts in punishing contempts of courts and to
+In 1954, wanting to eliminate Oppenheimer's political influence, Strauss secretly orchestrates a private security hearing before a Personnel Security Board concerning the renewal of Oppenheimer's Q clearance, during which his loyalty to the United States is questioned. However, the hearing is a kangaroo court. Oppenheimer's past communist ties are raised and his associates' testimony is twisted against him, with Teller's being the most damaging. After Kitty delivers an impassioned defense of herself and her husband, the board no longer suspects Oppenheimer of disloyalty but still revokes his clearance, thereby damaging his public image and limiting his influence on American nuclear policy.
 
-# regulate their procedure in relation thereto.
+In 1959, during Strauss's Senate confirmation hearing for Secretary of Commerce, Hill unexpectedly testifies about Strauss's personal motives for engineering Oppenheimer's downfall. Strauss's nomination is narrowly voted down, enraging him. In 1963, President Lyndon B. Johnson presents Oppenheimer with the Enrico Fermi Award. A flashback reveals that Oppenheimer and Einstein's 1947 conversation had nothing to do with Strauss. Instead, the two discussed Oppenheimer’s legacy, and Oppenheimer remorsefully expressed his fear that they had indeed started a chain reaction that will destroy the world.
 
-```
-BE it enacted by Parliament in the Twenty-second Year of the Republic of India as follows:—
-1. Short title and extent. — ( 1 ) This Act may be called the Contempt of Courts Act, 1971.
-( 2 ) It extends to the whole of India:
-```
-(^1) * * * * *
-2. Definitions. **—** In this Act, unless the context otherwise requires,—
-(a) “contempt of court” means civil contempt or criminal contempt;
-(b) “civil contempt” means wilful disobedience to any judgment, decree, direction, order, writ or
-other process of a court or wilful breach of an undertaking given to a court;
-(c) “criminal contempt” means the publication (whether by words, spoken or written, or by signs,
-or by visible representations, or otherwise) of any matter or the doing of any other act whatsoever
-which—
-(i) scandalises or tends to scandalise, or lowers or tends to lower the authority of, any
-court; or
-(ii) prejudices, or interferes or tends to interfere with, the due course of any judicial
-proceeding; or
-(iii) interferes or tends to interfere with, or obstructs or tends to obstruct, the administration of
-justice in any other manner;
-(d) “High Court” means the High Court for a State or a Union territory, and includes the court of
-the Judicial Commissioner in any Union territory.
-3. Innocent publication and distribution of matter not contempt. **—** ( 1 ) A person shall not be guilty
-of contempt of court on the ground that he has published (whether by words, spoken or written, or by
-signs, or by visible representations, or otherwise) any matter which interferes or tends to interfere with, or
-obstructs or tends to obstruct, the course of justice in connection with any civil or criminal proceeding
-pending at that time of publication, if at that time he had no reasonable grounds for believing that the
-proceeding was pending.
-( 2 ) Notwithstanding anything to the contrary contained in this Act or any other law for the time being
-in force, the publication of any such matter as is mentioned in sub-section ( 1 ) in connection with any civil
-or criminal proceeding which is not pending at the time of publication shall not be deemed to constitute
-contempt of court.
-( 3 ) A person shall not be guilty of contempt of court on the ground that he has distributed a
-publication containing any such matter as is mentioned in sub-section ( 1 ), if at the time of distribution he
-had no reasonable grounds for believing that it contained or was likely to contain any such matter as
-aforesaid:
-Provided that this sub-section shall not apply in respect of the distribution of—
-(i) any publication which is a book or paper printed or published otherwise than in conformity
-with the rules contained in section 3 of the Press and Registration of Books Act, 1867 (25 of 1867);
+Cast
+A photograph of Cillian Murphy
+A photograph of Robert Downey Jr
+Cillian Murphy (left) and Robert Downey Jr, both in 2014.
+Cillian Murphy as J. Robert Oppenheimer, a theoretical physicist and director of the Los Alamos Laboratory.[10]
+Emily Blunt as Katherine "Kitty" Oppenheimer, Robert Oppenheimer's wife and a former Communist Party USA member.[11]
+Matt Damon as Gen. Leslie Groves, a United States Army Corps of Engineers (USACE) officer and director of the Manhattan Project.[12]
+Robert Downey Jr. as Rear Admiral Lewis Strauss, a retired Naval Reserve officer and high-ranking member of the US Atomic Energy Commission (AEC).[12]
+Florence Pugh as Jean Tatlock, a psychiatrist, Communist Party USA member, and Robert Oppenheimer's romantic interest.[13]
+Josh Hartnett as Ernest Lawrence, a Nobel-winning nuclear physicist who worked with Oppenheimer at the University of California, Berkeley.[14][15]
+Casey Affleck as Boris Pash, a US Army military intelligence officer and commander of the Alsos Mission.[16]
+Rami Malek as David L. Hill, a nuclear physicist at the Metallurgical Laboratory, who helped to create the Chicago Pile.[13]
+Kenneth Branagh as Niels Bohr, a Nobel-winning Danish physicist, philosopher and Oppenheimer's personal idol.[17]
+Benny Safdie as Edward Teller, a Hungarian theoretical physicist known for being the "father of the hydrogen bomb".[13]
+Jason Clarke as Roger Robb, an attorney and future US circuit judge who served as special counsel to the AEC at Oppenheimer's security hearing.[18]
+Dylan Arnold as Frank Oppenheimer, Robert's younger brother and a particle physicist who worked on the Manhattan Project.[19]
+Tom Conti as Albert Einstein, Nobel-winning German theoretical physicist known for developing the theory of relativity.[20]
+James D'Arcy as Patrick Blackett, Oppenheimer's doctoral supervisor and Nobel-winning physicist at Cambridge University.[21]
+David Dastmalchian as William L. Borden, a lawyer and executive director of the United States Congressional Joint Committee on Atomic Energy (JCAE).[22]
+Dane DeHaan as Maj Gen. Kenneth Nichols, a US Army officer and the deputy district engineer of the Manhattan Project.[23]
+Alden Ehrenreich as a Senate aide to Lewis Strauss during Strauss's nomination for United States Secretary of Commerce.[24][25]
+Tony Goldwyn as Gordon Gray, a government official and chairman of the committee deciding the revoking of Oppenheimer security clearance.[26]
+Jefferson Hall as Haakon Chevalier ("Hoke"), a Berkeley professor who became friends with Oppenheimer at university.[27][28]
+David Krumholtz as Isidor Isaac Rabi, a Nobel Prize-winning physicist who worked as a consultant on the Manhattan Project.[24]
+Matthew Modine as Vannevar Bush, head of the Office of Scientific Research and Development.[29]
+Scott Grimes as Counsel to Lewis Strauss[30]
+Kurt Koehler as Thomas A. Morgan, an industrialist and former chairman of the board of the Sperry Corporation who was one of the panel members at Oppenheimer's security clearance hearing.[31][32]
+John Gowans as Ward V. Evans, a chemist and academic who served as one of the panel members at Oppenheimer's security clearance hearing.[33]
+Macon Blair as Lloyd K. Garrison, a lawyer who helped to represent Oppenheimer at his security clearance hearing.[34]
+Gregory Jbara as Sen. Warren Magnuson, Chairman of Senate Commerce Committee.[34]
+Harry Groener as Sen. Gale W. McGee[34]
+Tim DeKay as Sen. John Pastore[34]
+Matthias Schweighöfer as Werner Heisenberg, a German Nobel Prize-winning physicist who worked in Germany's nuclear weapons program during World War II.[35][36]
+Alex Wolff as Luis Walter Alvarez, a Nobel-winning physicist who worked on the Manhattan Project.[37]
+Josh Zuckerman as Giovanni Rossi Lomanitz, a physicist who became Oppenheimer's protégé at Berkeley.[38]
+Rory Keane as Hartland Snyder, a physicist, who collaborated with Oppenheimer to calculate the gravitational collapse of a dust particle sphere.[33]
+Michael Angarano as Robert Serber, a physicist who worked on the Manhattan Project.[14]
+Emma Dumont as Jackie Oppenheimer, Frank's wife and Robert's sister-in-law.[39]
+Guy Burnet as George C. Eltenton, a chemical engineer in the US with ties to the Soviet Union.[40]
+Louise Lombard as Ruth Tolman, a psychologist close to Oppenheimer during the development of the atomic bomb.[41]
+Tom Jenkins as Richard C. Tolman, Ruth's husband and General Groves' chief scientific adviser on the Manhattan Project.[42]
+Olli Haaskivi as Edward Condon, a nuclear physicist who helped with the development of radar and briefly took part in the Manhattan Project.[19]
+David Rysdahl as Donald Hornig, a chemist who worked on the firing unit at Los Alamos.[43]
+Josh Peck as Kenneth Bainbridge, a physicist who was the director of the Manhattan Project's Trinity nuclear test.[44]
+Jack Quaid as Richard Feynman, an American Nobel-winning theoretical physicist who worked in the Theoretical Division at Los Alamos.[45]
+Gustaf Skarsgård as Hans Bethe, a German-American Nobel-winning theoretical physicist and the head of the Theoretical Division at Los Alamos.[46]
+James Urbaniak as Kurt Gödel, an Austrian logician and mathematician known for his theorems that revolutionized mathematics and had far-reaching implications for philosophy and computer science.[34]
+Trond Fausa as George Kistiakowsky, a Harvard professor who took part in the Manhattan Project.[47]
+Devon Bostick as Seth Neddermeyer, a physicist who discovered the muon and advocated for the implosion-type nuclear weapon used in the Trinity Test.[48]
+Danny Deferrari as Enrico Fermi, an Italian Nobel-winning physicist and creator of the Chicago Pile.[40]
+Christopher Denham as Klaus Fuchs, a German-born physicist who worked on the Manhattan Project and spied for the Soviet Union.[30]
+Jessica Erin Martin as Charlotte Serber, head technical librarian at Los Alamos.[49]
+Ronald Auguste as J. Ernest Wilkins Jr., an African American nuclear scientist, mechanical engineer and mathematician who worked with Oppenheimer on the Manhattan Project.[49]
+Máté Haumann [hu] as Leo Szilard, a Hungarian physicist who conceived the idea of nuclear chain reaction in 1933, and later in July 1945 at the Chicago branch of the Manhattan Project circulated the petition to President Truman against unannounced use of atomic weapons on Japan.[50]
+Olivia Thirlby as Lilli Hornig, a Czech-American scientist who worked on the Manhattan Project.[51]
+Jack Cutmore-Scott as Lyall Johnson, a security officer at Berkeley who worked at the Manhattan Project.[34]
+Harrison Gilbertson as Philip Morrison, a physics professor who worked on the Manhattan Project.[39]
+James Remar as Henry L. Stimson, Secretary of War under President Truman.[34]
+Will Roberts as George C. Marshall, the United States Army Chief of Staff from 1939 to 1945.
+Pat Skipper as James F. Byrnes, US Secretary of State and future Governor of South Carolina.[34]
+Gary Oldman as Harry S. Truman, the 33rd President of the United States who made the decision to drop the two atomic bombs on Hiroshima and Nagasaki in August 1945.[52]
+Hap Lawrence as Lyndon B. Johnson, the 36th President of the United States.[34]
+Troy Bronson as Joseph W. Kennedy, a chemist instrumental on the discovery of plutonium, and head of the Chemistry Department at Los Alamos.[53]
+Production
+Development
 
-1. The Proviso omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31- 10 - 2019).
+Kai Bird (pictured) and Martin J. Sherwin are the authors of J. Robert Oppenheimer's biography American Prometheus (2005), on which the film is based.
+The director Sam Mendes was interested in adapting the 2005 Oppenheimer biography American Prometheus by Kai Bird and Martin J. Sherwin. After that project failed to materialize, the book was optioned by various filmmakers over the next fifteen years. The authors became pessimistic about a film adaptation. Oliver Stone declined an opportunity to direct, saying he "couldn't find my way to its essence".[54][55] In 2015, J. David Wargo optioned the book, then commissioned and rejected several scripts. During the COVID-19 pandemic, Wargo flew to Hollywood to meet with actor James Woods, who set up a meeting with Charles Roven, a producer for various Christopher Nolan films, and in turn, Roven gave a copy of the book to Nolan. Both Wargo and Woods are executive producers of the film.[55]
 
+Nolan had long desired to make a film about Oppenheimer, even prior to reading American Prometheus.[56] In 2019, towards the end of production on Nolan's science-fiction film Tenet (2020), star Robert Pattinson gave him a book of Oppenheimer's speeches. According to Nolan, the speeches showed Oppenheimer "wrestling with the implications ... of what's happened and what [he's] done". Nolan wanted to depict "what it would have been like to be Oppenheimer in those moments", in contrast to Tenet, which employs time travel to curb a potential weapon of mass destruction.[57][2]
 
-(ii) any publication which is a newspaper published otherwise than in conformity with the rules
-contained in section 5 of the said Act.
-Explanation. _—_ For the purposes of this section, a judicial proceeding—
-(a) is said to be pending—
-(A) in the case of a civil proceeding, when it is instituted by the filing of a plaint or otherwise,
-(B) in the case of a criminal proceeding under the Code of Criminal
-Procedure, 1898 (5 of 1898), or any other law—
-(i) where it relates to the commission of an offence, when the charge-sheet or challan is
-filed, or when the court issues summons or warrant, as the case may be, against the accused,
-and
-(ii) in any other case, when the court takes cognizance of the matter to which the
-proceeding relates, and
-in the case of a civil or criminal proceeding, shall be deemed to continue to be pending until it is
-heard and finally decided, that is to say, in a case where an appeal or revision is competent, until the
-appeal or revision is heard and finally decided or, where no appeal or revision is preferred, until the
-period of limitation prescribed for such appeal or revision has expired;
-(b) which has been heard and finally decided shall not be deemed to be pending merely by reason
-of the fact that proceedings for the execution of the decree, order or sentence passed therein are
-pending.
-4. Fair and accurate report of judicial proceeding not contempt. **—** Subject to the provisions
-contained in section 7, a person shall not be guilty of contempt of court for publishing a fair and accurate
-report of a judicial proceeding or any stage thereof.
+In December 2020, Warner Bros. Pictures announced plans to give its 2021 films simultaneous releases in theaters and on HBO Max, citing the impact of the COVID-19 pandemic on the film industry. Nolan, who had partnered with Warner Bros. on each of his films since Insomnia (2002), was outraged, as he was a staunch supporter of traditional film exhibition.[58] In January 2021, media reports mentioned the possibility that Nolan's next film could be the first not to be financed or distributed by Warner Bros.[59] By mid-2021, Nolan had left Warner Bros. and was meeting with other studios to develop his new project.[2] Nolan had previously supported Warner's decision to give Wonder Woman 1984 (2020) a simultaneous release, saying he felt that situation had been handled properly, but said he had been excluded from any discussions regarding the postponed release of Tenet.[60][61]
 
-5. Fair criticism of judicial act not contempt. **—** A person shall not be guilty of contempt of court
-for publishing any fair comment on the merits of any case which has been heard and finally decided.
+In September 2021, it was announced that Nolan would write and direct a biographical film about Oppenheimer and his contributions to the Manhattan Project, with Cillian Murphy in negotiations to star.[62][63] Due to his strained relationship with Warner Bros., Nolan approached multiple studios, including Sony, Universal, Paramount, and Apple.[64][65] According to insiders, Paramount was ruled out early in the process due to the replacement of the CEO and chairman, Jim Gianopulos, with Brian Robbins, an advocate for increased streaming-service releases.[65]
 
-6. Complaint against presiding officers of subordinate courts when not contempt. **—** A person
-shall not be guilty of contempt of court in respect of any statement made by him in good faith concerning
-the presiding officer of any subordinate court to—
+Nolan signed with Universal because he had previously worked with Donna Langley, chairwoman and chief content officer of the NBCUniversal studio group, on an unsuccessful attempt to make a film version of the UK television series The Prisoner.[66] Langley agreed with Nolan's stance on traditional film exhibition and Universal agreed to finance and distribute Oppenheimer, with production set to begin in the first quarter of 2022.[67] Universal also agreed to Nolan's terms, which included a production budget of $100 million,[68] an equal marketing budget, an exclusive theatrical window ranging from 90 to 120 days, 20 percent of the film's first-dollar gross, and a three-week period both before and after the opening, in which Universal could not release another new film.[65][2]
 
-```
-(a) any other subordinate court, or
-(b) the High Court,
-```
-to which it is subordinate.
-
-Explanation.—In this section, “subordinate court” means any court subordinate to a High Court.
-7. Publication of information relating to proceedings in chambers or in camera not contempt
-except in certain cases. **—** ( 1 ) Notwithstanding anything contained in this Act, a person shall not be guilty
-of contempt of court for publishing a fair and accurate report of a judicial proceeding before any court
-sitting in chambers or in camera except in the following cases, that is to say,—
-
-```
-(a) where the publication is contrary to the provisions of any enactment for the time being in
-force;
-(b) where the court, on grounds of public policy or in exercise of any power vested in it, expressly
-prohibits the publication of all information relating to the proceeding or of information of the
-description which is published;
-(c) where the court sits in chambers or in camera for reasons connected with public order or the
-security of the State, the publication of information relating to those proceedings;
-(d) where the information relates to a secret process, discovery or invention which is an issue in
-proceedings.
-```
-
-( 2 ) Without prejudice to the provisions contained in sub-section ( 1 ), a person shall not be guilty of
-contempt of court for publishing the text or a fair and accurate summary of the whole, or any part, of an
-order made by a court sitting in chambers or in camera, unless the court has expressly prohibited the
-publication thereof on grounds of public policy, or for reasons connected with public order or the security
-of the State, or on the ground that it contains information relating to a secret process, discovery or
-invention, or in exercise of any power vested in it.
-
-8. Other defences not affected. **—** Nothing contained in this Act shall be construed as implying that
-any other defence which would have been a valid defence in any proceedings for contempt of court has
-ceased to be available merely by reason of the provisions of this Act.
-
-9. Act not to imply enlargement of scope of contempt. **—** Nothing contained in this Act shall be
-construed as implying that any disobedience, breach, publication or other act is punishable as contempt of
-court which would not be so punishable apart from this Act.
-
-10. Power of High Court to punish contempts of subordinate courts. **—** Every High Court shall
-have and exercise the same jurisdiction, powers and authority, in accordance with the same procedure and
-practice, in respect of contempts of courts subordinate to it as it has and exercises in respect of contempts
-of itself:
-
-Provided that no High Court shall take cognizance of a contempt alleged to have been committed in
-respect of a court subordinate to it where such contempt is an offence punishable under the Indian Penal
-Code (45 of 1860).
-
-11. Power of High Court to try offences committed or offenders found outside jurisdiction. **—** A
-High Court shall have jurisdiction to inquire into or try a contempt of itself or of any court subordinate to
-it, whether the contempt is alleged to have been committed within or outside the local limits of its
-jurisdiction, and whether the person alleged to be guilty of contempt is within or outside such limits.
-
-12. Punishment for contempt of court. **—** ( 1 ) Save as otherwise expressly provided in this Act or in
-any other law, a contempt of court may be punished with simple imprisonment for a term which may
-extend to six months, or with fine which may extend to two thousand rupees, or with both:
-
-Provided that the accused may be discharged or the punishment awarded may be remitted on apology
-being made to the satisfaction of the Court.
-
-Explanation. _—_ An apology shall not be rejected merely on the ground that it is qualified or
-conditional if the accused makes it bona fide.
-
-( 2 ) Notwithstanding anything contained in any law for the time being in force, no court shall impose a
-sentence in excess of that specified in sub-section ( 1 ) for any contempt either in respect of itself or of a
-court subordinate to it.
-
-( 3 ) Notwithstanding anything contained in this section, where a person is found guilty of a civil
-contempt, the court, if it considers that a fine will not meet the ends of justice and that a sentence of
-imprisonment is necessary shall, instead of sentencing him to simple imprisonment, direct that he be
-detained in a civil prison for such period not exceeding six months as it may think fit.
-
-( 4 ) Where the person found guilty of contempt of court in respect of any undertaking given to a court
-is a company, every person who, at the time the contempt was committed, was in charge of, and was
-responsible to, the company for the conduct of business of the company, as well as the company, shall be
-deemed to be guilty of the contempt and the punishment may be enforced, with the leave of the court, by
-the detention in civil prison of each such person:
-
-Provided that nothing contained in this sub-section shall render any such person liable to such
-punishment if he proves that the contempt was committed without his knowledge or that he exercised all
-due diligence to prevent its commission.
-
-( 5 ) Notwithstanding anything contained in sub-section ( 4 ), where the contempt of court referred to
-therein has been committed by a company and it is proved that the contempt has been committed with the
-consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary
-or other officer of the company, such director, manager, secretary or other officer shall also be deemed to
+Writing
+Nolan became aware of Oppenheimer as a youth, after hearing the lyric "How can I save my little boy from Oppenheimer's deadly toy?" in the Sting song "Russians" (1985).[69] He was also inspired by his fears of nuclear holocaust throughout childhood, as he lived during the era of Campaign for Nuclear Disarmament (CND) and the anti-nuclear protests in RAF Greenham Common. He felt that "while our relationship with that [nuclear] fear has ebbed and flowed with time, the threat itself never actually went away", and felt the 2022 Russian invasion of Ukraine had caused a resurgence of nuclear anxiety.[57] Nolan had also penned a script for a biopic of Howard Hughes approximately during the time of production of Martin Scorsese's The Aviator (2004), which had given him insight on how to write a script regarding a person's life.[56] Emily Blunt described the Oppenheimer script as "emotional" and resembling that of a thriller, while also remarking that Nolan had "Trojan-Horsed a biopic into a thriller".[70]
 
 
-be guilty of the contempt and the punishment may be enforced, with the leave of the court, by the
-detention in civil prison of such director, manager, secretary or other officer.
 
-```
-Explanation.—For the purpose of sub-sections ( 4 ) and ( 5 ),—
-(a) “company” means any body corporate and includes a firm or other association of
-individuals; and
-(b) “director”, in relation to a firm, means a partner in the firm.
-```
-(^1) [13. Contempts not punishable in certain cases.—Notwithstanding anything contained in any law
-for the time being in force,—
-(a) no court shall impose a sentence under this Act for a contempt of court unless it is satisfied
-that the contempt is of such a nature that it substantially interferes, or tends substantially to interfere
-with the due course of justice;
-(b) the court may permit, in any proceeding for contempt of court, justification by truth as a valid
-defence if it is satisfied that it is in public interest and the request for invoking the said defence is
-bona fide.]
-14. Procedure where contempt is in the face of the Supreme Court or a High Court. **—** ( 1 ) When
-it is alleged, or appears to the Supreme Court or the High Court upon its own view, that a person has been
-guilty of contempt committed in its presence or hearing, the Court may cause such person to be detained
-in custody, and, at any time before the rising of the Court, on the same day, or as early as possible
-thereafter, shall—
-(a) cause him to be informed in writing of the contempt with which he is charged;
-(b) afford him an opportunity to make his defence to the charge;
-(c) after taking such evidence as may be necessary or as may be offered by such person and after
-hearing him, proceed, either forthwith or after adjournment, to determine the matter of the charge;
-and
-(d) make such order for the punishment or discharge of such person as may be just.
-( 2 ) Notwithstanding anything contained in sub-section ( 1 ), where a person charged with contempt
-under that sub-section applies, whether orally or in writing, to have the charge against him tried by some
-judge other than the Judge or Judges in whose presence or hearing the offence is alleged to have been
-committed, and the Court is of opinion that it is practicable to do so and that in the interests of proper
-administration of justice the application should be allowed, it shall cause the matter to be placed,
-together with a statement of the facts of the case, before the Chief Justice for such directions as he may
-think fit to issue as respects the trial thereof.
-( 3 ) Notwithstanding anything contained in any other law, in any trial of a person charged with
-contempt under sub-section ( 1 ) which is held, in pursuance of a direction given under sub-section ( 2 ), by
-a Judge other than the Judge or Judges in whose presence or hearing the offence is alleged to have been
-committed, it shall not be necessary for the Judge or Judges in whose presence or hearing the offence is
-alleged to have been committed to appear as a witness and the statement placed before the Chief Justice
-under sub-section ( 2 ) shall be treated as evidence in the case.
-( 4 ) Pending the determination of the charge, the Court may direct that a person charged with
-contempt under this section shall be detained in such custody as it may specify:
-Provided that he shall be released on bail, if a bond for such sum of money as the Court thinks
-sufficient is executed with or without sureties conditioned that the person charged shall attend at the time
-and place mentioned in the bond and shall continue to so attend until otherwise directed by the Court:
-Provided further that the Court may, if it thinks fit, instead of taking bail from such person, discharge
-him on his executing a bond without sureties for his attendance as aforesaid.
+Writer, director, and producer Christopher Nolan (left) and co-producers Emma Thomas and Charles Roven
+By September 2021, both Roven and Nolan had begun contacting Bird and Sherwin to discuss the script. During Bird's first meeting with Nolan, he had already written a spec script while they discussed the script's content, although Nolan did not disclose the script to them yet.[71] Oppenheimer is the first screenplay written by Nolan in the first person, as he wanted the narrative to be conveyed from Oppenheimer's perspective. He described the "texture" of the film being "how the personal interacts with the historic and the geopolitical" with the intention of making it a cautionary tale.[56][72][73] He began developing the script after he completed Tenet and wrote it in only a few months; he had already been thinking about making a film about Oppenheimer for over 20 years.[56]
 
-1. Subs. by Act 6 of 2006, s. 2, for section 1 3 (w.e.f. 17- 3 - 2006).
+A major plot element is Oppenheimer's response to the long-term consequences of his actions. Nolan wished to explore the phenomenon of delayed reactions, as he felt people are not "necessarily confronted with the strongest or worst elements of [their actions] in the moment".[69] He also chose to alternate between scenes in color and black-and-white to convey the story from both subjective and objective perspectives, respectively,[74] with most of Oppenheimer's view shown via the former, while the latter depicts a "more objective view of his story from a different character's point of view".[75][69] Wanting to make the film as subjective as possible, the production team decided to include visions of Oppenheimer's conceptions of the quantum world and waves of energy.[76] Nolan noted that while Oppenheimer never publicly apologized for his role in the atomic bombings of Hiroshima and Nagasaki, he still believed Oppenheimer had felt genuine guilt for his actions and thus portrayed him as exhibiting those feelings.[77]
+
+I think of any character I've dealt with, Oppenheimer is by far the most ambiguous and paradoxical. Which, given that I've made three Batman films, is saying a lot.
+
+— Christopher Nolan, Total Film[70]
+
+Nolan began by trying to find the "thread that connected the quantum realm, the vibration of energy, and Oppenheimer's own personal journey" and sought to portray the difficulties in his life, particularly regarding his sex life.[57] As such, Nolan wanted to candidly portray his affair with Jean Tatlock. He also wanted to explore Tatlock's influence on Oppenheimer's life, since she was a Communist, which had "enormous ramifications for [Oppenheimer's] later life and his ultimate fate".[78] Nolan also sought to explore the relationship between Oppenheimer and Admiral Lewis Strauss, former chair of the US Atomic Energy Commission, having been inspired by the relationship between Wolfgang Amadeus Mozart and Antonio Salieri as depicted in Amadeus (1984).[69]
+
+Another critical moment of the film was the meeting in which President Harry S. Truman called Oppenheimer a "crybaby". Nolan wanted to convey the scene from Oppenheimer's perspective and felt it was a "massive moment of disillusion, a huge turning point [for Oppenheimer] in his approach to trying to deal with the consequences of what he'd been involved with", while also underscoring that it is a "huge shift in perception about the reality of Oppenheimer's perception".[56] He wanted to execute a quick tonal shift after the atomic bombings of Hiroshima and Nagasaki, desiring to go from the "highest triumphalism, the highest high, to the lowest low in the shortest amount of screen time possible".[73] For the ending, Nolan chose to make it intentionally vague to be open to interpretation and refrained from being didactic or conveying specific messages in his work. However, he did have the intention to present a "strong set of troubling reverberations at the end".[77]
+
+Casting
+Oppenheimer marks the sixth collaboration between Nolan and Murphy, and the first starring Murphy as the lead. To prepare for the role, Murphy read extensively on Oppenheimer's life and was inspired by David Bowie's appearance in the 1970s.[79][10][69] Nolan called Murphy one day to ask him to play the part, and Murphy enthusiastically accepted, excited to play a lead role in a Nolan film. Afterward, Nolan flew to Dublin to meet with Murphy, who read the script in Nolan's hotel room.[80] Murphy lost an undisclosed amount of weight for the role in order to better match the real-life Oppenheimer's gaunt appearance.[81] Nolan also set up a phone call between Murphy and Nobel laureate Kip Thorne, who had previously worked with Nolan on Interstellar (2014).[56] As a graduate student, Thorne had attended some of Oppenheimer's seminars, and explained to Murphy his experience with Oppenheimer's gift for facilitating group discussions of difficult scientific concepts.[56]
+
+The casting process was so secretive that some cast members did not know which role they would be playing until they signed on.[37] Robert Downey Jr., Matt Damon, and Emily Blunt took pay cuts to work on the film, with each earning $4 million in lieu of their usual $10–20 million upfront salary.[82] Downey went to Nolan's house to read the script, which was printed in black on red paper.[83] Downey would later describe Oppenheimer as "the best film" in which he has appeared to date.[84] Blunt met Nolan in Los Angeles and, when she was offered the role of Katherine "Kitty" Oppenheimer, she enthusiastically accepted; she also contacted Murphy to get an expectation of what working with Nolan would be like.[83] Asked to play the part of Leslie Groves, Damon—who had appeared in Nolan's Interstellar—was taking a break from acting as a result of negotiations with his wife in couples therapy, but signed on to Oppenheimer as he had reserved one exception: if Nolan offered him a role in a film.[85] Nolan cast writer-director Benny Safdie as physicist Edward Teller after asking director Paul Thomas Anderson about his experience directing Safdie in Licorice Pizza (2021).[86] Safdie had worked alongside a nuclear physicist at Columbia University while in high school.[69] It is Nolan's first film since Insomnia (2002) to not feature Michael Caine.[87] Glen Powell auditioned and was rejected for the role that went to Josh Hartnett.[88]
+
+Filming
 
 
-15. Cognizance of criminal contempt in other cases. **—** ( 1 ) In the case of a criminal contempt, other
-than a contempt referred to in section 14, the Supreme Court or the High Court may take action on its
-own motion or on a motion made by—
+Filming took place at the University of California, Berkeley, in May 2022.
+Pre-production had begun by January 2022 in New Mexico, where a two-day casting call took place in Santa Fe and Los Alamos for people to audition to play local residents, military personnel, and scientists.[89][90] Another casting call was held in February.[91]
 
-```
-(a) the Advocate-General, or
-(b) any other person, with the consent in writing of the Advocate-General, 1 [or]
-```
-(^1) [(c) in relation to the High Court for the Union territory of Delhi, such Law Officer as the
-Central Government may, by notification in the Official Gazette, specify in this behalf, or any other
-person, with the consent in writing of such Law Officer.]
-( 2 ) In the case of any criminal contempt of a subordinate court, the High Court may take action on a
-reference made to it by the subordinate court or on a motion made by the Advocate-General or, in relation
-to a Union territory, by such Law Officer as the Central Government may, by notification in the Official
-Gazette, specify in this behalf.
-( 3 ) Every motion or reference made under this section shall specify the contempt of which the person
-charged is alleged to be guilty.
-Explanation. _—_ In this section, the expression “Advocate-General” means,—
-(a) in relation to the Supreme Court, the Attorney-General or the Solicitor-General;
-(b) in relation to the High Court, the Advocate-General of the State or any of the States for which
-the High Court has been established;
-(c) in relation to the court of a Judicial Commissioner, such Law Officer as the Central
-Government may, by notification in the Official Gazette, specify in this behalf.
-16. Contempt by judge, magistrate or other person acting judicially. **—** ( 1 ) Subject to the
-provisions of any law for the time being in force, a judge, magistrate or other person acting judicially
-shall also be liable for contempt of his own court or of any other court in the same manner as any other
-individual is liable and the provisions of this Act shall, so far as may be, apply accordingly.
-( 2 ) Nothing in this section shall apply to any observations or remarks made by a judge, magistrate or
-other person acting judicially, regarding a subordinate court in an appeal or revision pending before such
-judge, magistrate or other person against the order or judgment of the subordinate court.
-17. Procedure after cognizance. **—** ( 1 ) Notice of every proceeding under section l5 shall be served
-personally on the person charged, unless the Court for reasons to be recorded directs otherwise.
-( 2 ) The notice shall be accompanied,—
-(a) in the case of proceedings commenced on a motion, by a copy of the motion as also copies of
-the affidavits, if any, on which such motion is founded; and
-(b) in case of proceedings commenced on a reference by a subordinate court, by a copy of the
-reference.
-( 3 ) The Court may, if it is satisfied that a person charged under section 15 is likely to abscond or keep
-out of the way to avoid service of the notice, order the attachment of his property of such value or amount
-as it may deem reasonable.
-( 4 ) Every attachment under sub-section ( 3 ) shall be effected in the manner provided in the Code of
-Civil Procedure, 1908 (5 of 1908), for the attachment of property in execution of a decree for payment of
-money, and if, after such attachment, the person charged appears and shows to the satisfaction of the
-Court that he did not abscond or keep out of the way to avoid service of the notice, the Court shall order
-the release of his property from attachment upon such terms as to costs or otherwise as it may think fit.
-
-1. Ins. by Act 45 of 1976, s. 2 (w.e.f. 30- 3 - 1976).
+Principal photography began on February 28, 2022, at Ghost Ranch in New Mexico,[92] and lasted for 57 days with Hoyte van Hoytema serving as cinematographer.[81][24] The original shooting schedule had set aside approximately 85 days for filming.[93] However, during pre-production, it had become clear that principal photography could not be completed within $100 million over that many days on location all over the United States.[93] To efficiently use the budget for location shooting in California and New Jersey and constructing high-quality historically accurate sets in New Mexico, Nolan compressed the shooting schedule from 85 to 57 days.[93][94] Murphy, who appears in nearly every scene, described the pace as "insane".[93]
 
 
-( 5 ) Any person charged with contempt under section 15 may file an affidavit in support of his
-defence, and the Court may determine the matter of the charge either on the affidavits filed or after taking
-such further evidence as may be necessary, and pass such order as the justice of the case requires.
+Cinematographer Hoyte van Hoytema won several awards for his work on Oppenheimer, including an Academy Award.[95]
+Gary Oldman said he would be on set for a day in May for "one scene, a page and a half".[52] The original choice for Oval Office location in the Nixon Presidential Library fell through a week before filming, and since Oldman's dates were unmovable, the production design team redressed the Oval Office set from Veep, which according to Ruth De Jong had fallen into "nightmarish" disrepair.[96] Nolan filmed his eldest child, his daughter Flora, in a scene in which she played a young woman disintegrated in a nuclear explosion. It appears in the film as one of Oppenheimer's visions, in which Nolan intended to show "that if you create the ultimate destructive power, it will also destroy those who are near and dear to you".[57]
 
-18. Hearing of cases of criminal contempt to be by Benches. **—** ( 1 ) Every case of criminal contempt
-under section 15 shall be heard and determined by a Bench of not less than two judges.
+The film used a combination of IMAX 65 mm and 65 mm large-format film.[10] It is also the first film to shoot sections on IMAX black-and-white photographic film, which Kodak created and FotoKem developed specifically for the film.[97][98] Van Hoytema used 50 mm and 80 mm Hasselblad lenses when filming on the IMAX MKIV or IMAX MSM 9802 cameras, while scenes shot on the Panavision Panaflex System 65 Studio cameras were shot using Panavision Sphero 65 and Panavision System 65 lenses.[99] Additionally, the production had Panavision construct a custom probe lens to allow the filmmakers to use IMAX cameras for macro photography and microphotography to record the miniature effects.[100] In the second week of April, filming took place on location at the Institute for Advanced Study in Princeton, New Jersey.[101] Filming also occurred in California,[51] primarily around the campus of the University of California, Berkeley.[102] Scenes set in the city of Berkeley itself were filmed in Pasadena.[103]
 
-( 2 ) Sub-section ( 1 ) shall not apply to the Court of a Judicial Commissioner.
-19. Appeals. **—** ( 1 ) An appeal shall lie as of right from any order or decision of the High Court in the
-exercise of its jurisdiction to punish for contempt—
+During a 2021 research trip, Nolan discovered that Los Alamos had drastically changed from its 1940s appearance and could not be used for exterior shots of the town; for example, the town's equivalent of a Main Street has a Starbucks.[92] Instead, the production team constructed a version of 1940s-era Los Alamos on top of a similar plateau at Ghost Ranch.[92] It took three months to build the set, which was used for only six shooting days.[92] The general plan was to shoot only exterior shots on the set at Ghost Ranch, then shoot interior shots on location inside various historic buildings in the real town of Los Alamos.[103] Interior shooting in Los Alamos began on March 8, 2022.[92] Many scenes in the film take place in academic lecture halls; to save time and money, the production team decided against attempting to reconstruct those halls as sets at Ghost Ranch, and shot them inside a historic Women's Army Corps dormitory in Los Alamos.[92] Scenes were also filmed in Oppenheimer's original cabin in Los Alamos, which had been restored. Kai Bird visited the set and was impressed by Murphy's performance.[104] The New York hotel scenes were shot in Albuquerque's Old Post Office building, while the Washington, D.C. scenes were shot in state government buildings in the state capital of Santa Fe.[103]
 
-(a) where the order or decision is that of a single judge, to a Bench of not less than two judges of
-the Court;
-(b) where the order or decision is that of a Bench, to the Supreme Court:
-Provided that where the order or decision is that of the Court of the Judicial Commissioner in any
-Union territory, such appeal shall lie to the Supreme Court.
+Filming involved the use of real explosives to recreate the Trinity nuclear test, forgoing the use of computer-generated graphics.[105] When this news first broke online, many fans (aware of Nolan's famous preference for in-camera practical effects) thought it meant he had set off a real atomic bomb.[2] Nolan later remarked that it was both "flattering" and "scary" that his fans would think that of him.[2] The production team was able to obtain government permission to film at White Sands Missile Range, but only at highly inconvenient hours, and therefore chose to film the scene elsewhere in the New Mexico desert.[2][103] The production filmed the Trinity test scenes in Belen, New Mexico, with Murphy climbing a 100-foot steel tower, a replica of the original site used in the Manhattan Project, in rough weather.[2][103] A special set was built in which gasoline, propane, aluminum powder, and magnesium were used to create the explosive effect.[57] Although they used miniatures for the practical effect, the special effects supervisor, Scott R. Fisher, referred to them as "big-atures", since the special effects team had tried to build the models as physically large as possible. To make the models look closer to their intended real-life size, the team used forced perspective.[106][107] Visualizations of the interactions between atoms, molecules and energy waves, as well as the depiction of stars, black holes and supernovas, were also achieved through practical methods. Nolan claimed the film contains no computer-generated effects,[108] and used practical effects to achieve "real-world imagery".[109] Filming wrapped in May 2022.[110]
 
-( 2 ) Pending any appeal, the appellate Court may order that—
-(a) the execution of the punishment or order appealed against be suspended;
-(b) if the appellant is in confinement, he be released on bail; and
-(c) the appeal be heard notwithstanding that the appellant has not purged his contempt.
-( 3 ) Where any person aggrieved by any order against which an appeal may be filed satisfies the High
-Court that he intends to prefer an appeal, the High Court may also exercise all or any of the powers
-conferred by sub-section ( 2 ).
+Post-production
+Editing was completed by Jennifer Lame, who had previously edited Tenet.[10] While inspecting the footage during editing, Nolan and Lame performed "character passes" to ensure all the characters were properly displayed on screen, due to the film having a faster pace than most traditional blockbusters.[69] Visual effects were handled by DNEG, which produced more than 100 VFX shots from more than 400 practically shot elements,[111] marking their eighth collaboration with Nolan. Andrew Jackson was the visual effects supervisor,[112] who stated that the film used mostly "invisible" visual effects through "'in-camera' special effects created on set".[113] Digital compositing was used for the Trinity scene to add multi-layers to the explosion which was shot in a multifaceted viewpoint.[114] There were 160 VFX artists who worked on the film, 134 of whom were left uncredited.[115]
 
-```
-( 4 ) An appeal under sub-section ( 1 ) shall be filed—
-(a) in the case of an appeal to a Bench of the High Court, within thirty days;
-(b) in the case of an appeal to the Supreme Court, within sixty days,
-```
-from the date of the order appealed against.
+Steven Spielberg was the first person to see the final cut, in a private screening of its first 70mm print. Nolan said: "He said some very kind things, but really just to watch him watch ... I wasn't even supposed to watch it with him, but seeing the great master watching? It was sort of irresistible."[116][117]
 
-20. Limitation for actions for contempt. **—** No court shall initiate any proceedings of contempt,
-either on its own motion or otherwise, after the expiry of a period of one year from the date on which the
-contempt is alleged to have been committed.
+Music
+Main article: Oppenheimer (soundtrack)
 
-21. Act not to apply to Nyaya Panchayats or other village courts. **—** Nothing contained in this Act
-shall apply in relation to contempt of Nyaya Panchayats or other village courts, by whatever name
-known, for the administration of justice, established under any law.
+Ludwig Göransson won the Academy Award for Best Original Score.
+Ludwig Göransson composed the score for the film, after doing so for Nolan's previous film, Tenet.[10] Göransson's score was featured in a trailer for the film on May 8, 2023.[118] It was also featured in the Universal Pictures exclusive five-minute Opening Look on July 13.[119][120] Nolan had advised him to use the violin for Oppenheimer's central theme in the film, with Göransson remarking that he had felt that it could go from "the most romantic, beautiful tone in a split second to neurotic and heart wrenching, horror sounds".[69]
 
-22. Act to be in addition to, and not in derogation of, other laws relating to contempt. **—** The
-provisions of this Act shall be in addition to, and not in derogation of, the provisions of any other law
-relating to contempt of courts.
+Marketing
+Oppenheimer's teaser trailer was released on July 28, 2022, featuring a live countdown to 5:29 a.m. (MDT) on July 16, 2023, the 78th anniversary of the first detonation of an atomic weapon; it premiered in screenings of Nope before being posted online on Universal's social media profiles.[121] Empire commented that it is exemplary of Nolan's style: "heady, brooding stuff with a real sense of weight".[122]
 
-23. Power of Supreme Court and High Courts to make rules. **—** The Supreme Court or, as the case
-may be, any High Court, may make rules, not inconsistent with the provisions of this Act, providing for
-any matter relating to its procedure.
+In December 2022, two trailers premiered in front of Avatar: The Way of Water, with one being exclusive to IMAX theaters and the other being shown in all other formats. The latter was eventually released online.[123][124] In May 2023, an official main trailer debuted during preview screenings of Guardians of the Galaxy Vol. 3. It was subsequently released to the public on May 8, 2023, alongside a theatrical release poster.[125]
 
-```
-24. Repeal. — The Contempt of Courts Act, 1952 (32 of 1952), is hereby repealed.
-```
+Release
+Theatrical
 
+Le Grand Rex in Paris, where Oppenheimer held its world premiere
+Oppenheimer had its world premiere at Le Grand Rex in Paris on July 11, 2023,[126] followed by the British premiere at Odeon Luxe Leicester Square in London on July 13,[127] and the American premiere at AMC Lincoln Square 13 in New York City on July 17.[128] Both the London and the New York premieres were affected by the SAG-AFTRA strike, as some actors left the London premiere early,[127] and Universal Pictures canceled the red carpet event for the New York premiere.[128] SAG-AFTRA President Fran Drescher later claimed the studios "duped" the guild into accepting a twelve-day-extension for negotiations to continue promoting summer films like Oppenheimer.[129] Oppenheimer was released theatrically on July 21, 2023, by Universal Pictures.[10][130] In addition to standard digital cinemas, it was also released in various film formats including IMAX 70 mm (30 prints), standard 70 mm (113 prints) and 35 mm (around 80 prints).[131]
+
+The film was released on the same day as Barbie, a fantasy comedy film directed by Greta Gerwig based on Mattel's Barbie fashion dolls and media franchise, and distributed by Warner Bros. Many speculated that the decision by Warner Bros. to release Barbie on the same day as Oppenheimer was made in order to deplete ticket sales of Oppenheimer as retaliation for Nolan releasing the film with Universal.[132] Due to the tonal and genre dissonance between the two films, many social media users created memes about how the two films appealed to different audiences,[133] and how they should be viewed as a double feature.[134] The trend was dubbed "Barbenheimer",[135] and was described as counterprogramming during a summer of "entertainment industry meltdown".[136] Cillian Murphy had endorsed the phenomenon, saying "My advice would be for people to go see both, on the same day. If they are good films, then that's cinema's gain."[137]
+
+In March 2022, Universal Pictures halted the release of its titles in Russia, joining other major American film distributors in the boycott against the country following its invasion of Ukraine in February 2022.[138] Oppenheimer had also been banned by Russia's Ministry of Culture, which had refused to license screenings of the film, stating that it did not meet their goals of "preserving and strengthening traditional Russian spiritual values".[139]
+
+The film was not released in Japan until eight months after its initial global release. Variety noted the controversial reputation in Japan due to the atomic bombings of Hiroshima and Nagasaki. A Universal spokesperson said that "plans have not been finalized in all markets". American films are often released in Japan a few months after the initial theatrical release.[140] In December 2023, the independent Japanese film distributor Bitters End announced that it would theatrically release the film in 2024, as Universal's distributor in Japan Toho-Towa opted not to release it.[141][142] The film was later released by Bitters End in Japan on March 29, and during its first three days, it was ranked as the country's highest grossing foreign film after making 379.3 million yen ($2.5 million) at the box office.[143][144]
+
+Classifications and censorship
+In the United States, the film received an R-rating from the Motion Picture Association for "some sexuality, nudity, and language". It is Nolan's first film to receive that rating since Insomnia (2002).[145] In Australia, the film received an MA 15+ rating from the Australian Classification Board board for "strong sex and a suicide scene".[146] In the United Kingdom, the film received a 15 certificate from the British Board of Film Classification for "strong language and sex", meaning anyone under the age of 15 cannot be admitted to view the film.[147] In some countries, including those in the Middle East, South Asia and Southeast Asia, Universal distributed a version of the film with Florence Pugh's nude body covered by a computer-generated black dress.[148][149][150]
+
+In India, Oppenheimer was released with all scenes depicting nudity, sex and cigarette smoking being censored, earning the U/A certificate from the Central Board of Film Certification (CBFC) while retaining the running time.[151] The audio of the scene in which Tatlock directs Oppenheimer to read a verse from the Hindu scripture Bhagavad Gita, "I am become Death, destroyer of worlds", remained intact.[152] As NDTV reported, the Minister for Information and Broadcasting Anurag Thakur questioned how the CBFC certified the film with the verse heard during such circumstance in the first place, and asked the scene to be deleted.[153] Hindu nationalists were angered by the scene and demanded its removal.[154] Among them was journalist Uday Mahurkar, who wrote an open letter to Nolan calling the scene a "direct assault on religious beliefs of a billion tolerant Hindus", and demanded its removal from all releases of Oppenheimer across the world.[152] On the other hand, actor Nitish Bharadwaj told The Times of India that "The use of this verse in the film should also be understood from Oppenheimer's emotional state of mind. A scientist thinks of his creation 24x7x365 days, irrespective of what he is doing. His mind space is consumed fully of his creation & the physical act is just a natural mechanical act."[155]
+
+Home media
+Oppenheimer was released on Ultra HD Blu-ray, regular Blu-ray and DVD formats including digital on November 21, 2023.[156] As the former two releases sold out days after release, Universal worked on restocking before the holiday season.[157] Nolan was vocal during the home release campaign of the film about the importance of physical media libraries, stating that letting films only exist digitally or on streaming services allows companies to have too much control and creates a danger for film preservation.[158][159] The film was released for streaming in the US exclusively on Peacock and in Canada on Amazon Prime Video on February 16, 2024.[160][161] Additionally, it began streaming on Jio Cinema in India from March 21, 2024.[162]
+
+Reception
+Box office
+As of May 15, 2024, Oppenheimer has grossed $329.9 million in the United States and Canada and $646.3 million in other territories, for a worldwide total of $976.2 million.[3][4] $190 million of which came from IMAX alone.[163] It is the second-highest-grossing R-rated film of all-time behind Joker (2019).[164][165] In September 2023, Oppenheimer became the highest-grossing biographical film of all time, surpassing Bohemian Rhapsody (2018).[166][167]
+
+By August 2023, Oppenheimer had become the highest-grossing film ever to not reach the top spot at the domestic box office, although in its sixth weekend it topped the worldwide box office with a total of $38.12 million, surpassing Barbie for the first time.[168] It is also the highest grossing World War II-related film, surpassing Dunkirk (2017), also a Nolan film.[169][170] Additionally, Oppenheimer became one of the top five highest-grossing IMAX releases, earning $183 million[171] (approximately 20% of its total gross), over $17 million of which was earned from the 30 screens showing IMAX 70 mm prints.[172] The film was booked to be rereleased in IMAX theaters on November 3, including six IMAX 70 mm prints, as these theaters reported selling out during the initial release.[171] Deadline Hollywood calculated the net profit of the film to be $201.9 million, when factoring together all expenses and revenues.[173]
+
+United States and Canada
+In the United States and Canada, Oppenheimer was released alongside Barbie,[174] in what became known as 'Barbenheimer'. The week of their releases, AMC Theatres announced that over 40,000 AMC Stubs members had already pre-booked tickets to both films on the same day.[175] After grossing $33 million on its first day (including $10.5 million from Thursday night previews), it went on to debut to $82.5 million,[176] finishing second behind Barbie and marking one of the best opening weekends ever for an R-rated drama.[177] 64% of the audience was male, with 33% being 18–34 years old. The Barbenheimer phenomenon was credited with boosting interest in the film, with a total of 79% of tickets sold over the weekend being for the two films (27% for Oppenheimer), a combined total of 18.5 million people.[178] The opening weekend was Nolan's best for an original film, being the highest of his filmography outside of the latter two films from The Dark Knight trilogy.[179] It achieved the third-highest opening weekend for a biopic film, behind The Passion of the Christ (2004) and American Sniper (2014).[180]
+
+Oppenheimer made $46.2 million in its second weekend (a drop of 44%), remaining in second behind Barbie.[181][182] The film made $28.7 million in its third weekend, finishing third behind Barbie and newcomer Meg 2: The Trench.[183] On August 16, Oppenheimer surpassed Sing (2016) to become the highest-grossing film to never reach the number one spot at the box office.[184][185] During its fourth weekend, the film made $18.8 million (a drop of 35%) rising back up to second place.[186] In its fifth and sixth weekends, the film grossed $10.7 million and $9 million (a drop of 43% and 16% respectively), finishing in third and fourth place at the box office and passing $300 million domestically in its sixth weekend.[186] Following its 13 Oscar nominations, the film expanded from 1,008 theaters to 2,262 in its 28th week of release and made $1 million, an increase of 284% from the previous weekend.[187][188]
+
+Japan
+In Japan, Oppenheimer was released on March 29, 2024.[189][190] It attracted controversy there, and Warner Bros. issued an apology following criticism of the "Barbenheimer" phenomenon as insensitive.[191] The film grossed $2.5 million and placed third in the country's box office during its opening weekend in Japan.[192][193]
+
+The film received a range of comments from the Japanese public. Some theaters displayed content warnings for the film.[194] A number of people from Hiroshima who viewed the film reported feeling discomfort and distress while watching it.[195] One point of contention was on the choice to not visually depict the nuclear bombing of Japan. A number of Japanese people praised the choice and others felt that it resulted in the downplaying or glorification of the bombing.[195][196][197] Takashi Hiraoka, former mayor of Hiroshima, reportedly felt that the horror of nuclear weapons had not been sufficiently portrayed in the film.[195][196] A number of people reported feeling that Oppenheimer was glorified in the film for his role in developing the bomb, and a number of people felt that he was also a victim of his circumstances and experienced distress from it.[195][197] Masao Tomonaga, who experienced one of the nuclear bombings, felt that the film was "anti-nuclear" and expressed disappointment in the lack of a scene for the atomic bombing in Japan, but was reportedly satisfied with the portrayal of Oppenheimer's distress after the bombings.[195] A Hiroshima resident was reported advocating for more people to see the film,[195] and another advocated for fewer.[197]
+
+Other territories
+Outside the United States and Canada, Oppenheimer grossed $98 million in its opening weekend.[198] The following weekend, it earned $77.1 million, dropping by 21% to become Nolan's highest-grossing film in 30 countries, including India, Saudi Arabia, United Arab Emirates and Turkey.[199] In its third weekend, Oppenheimer grossed $52.8 million (a drop of 31%)[200] and $32 million in its fourth weekend.[201] It held well in the following weeks, making $32 million and $29.1 million in its fifth and sixth weekends.[202][203] As of September 10, 2023, the highest-grossing territories were the UK ($75 million), China ($61.6 million), Germany ($51.9 million), France ($43.1 million) and Australia ($25.9 million).[204]
+
+Critical response
+The film received critical acclaim.[b] Critics praised Oppenheimer primarily for its screenplay, cast performances, and visuals.[c] It was frequently ranked as one of Nolan's best films,[219][220][211] and one of the best of 2023. Hindustan Times reported that the film was hailed as one of the best of the 21st century.[221] On the review aggregator website Rotten Tomatoes, 93% of 505 critics' reviews are positive, with an average rating of 8.6/10. The website's consensus reads: "Oppenheimer marks another engrossing achievement from Christopher Nolan that benefits from Murphy's tour-de-force performance and stunning visuals."[222] Metacritic, which uses a weighted average, assigned the film a score of 90 out of 100, based on 69 critics, indicating "universal acclaim".[223] Audiences polled by CinemaScore gave the film an average grade of "A" on an A+ to F scale, while those polled by PostTrak gave it a 93% overall positive score, with 74% saying they would definitely recommend the film.[178]
+
+Richard Roeper of the Chicago Sun-Times gave Oppenheimer a perfect four out of four, describing it as "magnificent" and "one of the best films of the 21st century".[224] The A.V. Club's Matthew Jackson deemed it a "masterpiece", adding that "it's Christopher Nolan's best film so far, a step up to a new level for one of our finest filmmakers and a movie that burns itself into your brain".[225] Empire's Dan Jolin labeled it a "masterfully constructed character study", taking particular note of Murphy's performance and van Hoytema's IMAX cinematography.[226] Peter Suderman, writing for Reason, said that the film leaves the viewer with a sense of "fear and foreboding about the horror of full-on nuclear conflict in the wake of the nuclear bomb. Humanity is both great and terrible. Oppenheimer isn't just a movie—it's a warning."[227]
+
+Matt Zoller Seitz, writing for RogerEbert.com, awarded Oppenheimer a full four out of four rating. He lauded Nolan's storytelling, exploration of Oppenheimer's character and its technical achievements, concluding: "As a physical experience, Oppenheimer is something else entirely—it's hard to say exactly what and that's what's so fascinating about it".[228] Peter Travers described the film as a "monumental achievement" and "one of the best films you'll see anywhere".[229] Caryn James of BBC Culture similarly termed it "boldly imaginative and [Nolan's] most mature work yet", adding that it combined the "explosive, commercially-enticing action of The Dark Knight trilogy" with the "cerebral underpinnings" of Memento, Inception and Tenet.[230] IGN critic Siddhant Adlakha ranked Oppenheimer 10/10, describing it as "a three-hour biopic that plays like a jolting thriller" and Nolan's most "abstract" work yet.[231]
+
+Saibal Chatterjee from NDTV rated the film four and a half out of five and stated: "Oppenheimer, a cinematic achievement of blinding brilliance, achieves a sublime combination of visual grandeur, technical flair, emotional intimacy and an examination of the limits of human endeavor and ambition".[232] In August 2023, it ranked number three on Collider's list of "The 20 Best Drama Movies of the 2020s So Far," with the site writing that Nolan "explores the world's obsession with destructive nuclear weapons from the perspective of their creator; using the Greek myth of Dante [sic] as an inspiration, Oppenheimer makes it clear that once this type of power is unleashed, it is bound to be used again."[233]
+
+Despite praising the film's themes and performances, CNN's Brian Lowry believed that "Nolan juggles a lot, in a way that somewhat works to the movie's detriment".[234][235] While praising how the film acknowledges the contribution of "American scientists and American enterprise", Brett Mason complained that it omits the crucial contributions of non-Americans who ensured the work was able to commence as early as December 1941: "Nolan completely ignores the crucial role that British science and Australian physicist Mark Oliphant played in jump-starting the quest."[236] Writing for the Los Angeles Times, Justin Chang defended Nolan's accurate depiction of how Oppenheimer could not see the true victims of his work. Chang wrote that instead of satisfying "representational completists" by detouring to Hiroshima and Nagasaki, "Nolan treats them instead as a profound absence, an indictment by silence".[205] Chang later won the 2024 Pulitzer Prize for Criticism for that article.[237] According to Richard Brody, the movie-listings editor at The New Yorker who described the film as a "History Channel movie with fancy editing", "I was tempted to call it a movie-length Wikipedia article. But after a look online, I realized I was giving Wikipedia too little credit—or Christopher Nolan, the movie's writer and director, too much".[238]
+
+For IndieWire's annual critics poll, in which 158 critics and journalists from around the world voted, Oppenheimer was placed second in their Best Film list, with 69 overall mentions and 17 first-place votes. Nolan was also ranked second on the Best Director list, while his screenplay was placed eighth. Murphy was the highest-placed actor on the Best Performance list (fourth overall) while Van Hoytema's work topped the Best Cinematography list.[239] Oppenheimer also appeared in over 410 critics' lists of the best films released in 2023, and was ranked first in 99 of them.[240]
+
+Response by filmmakers
+Oliver Stone deemed the film "a classic, which I never believed could be made in this climate".[241] Paul Schrader called Oppenheimer, "the best, most important film of this century",[242] while Denis Villeneuve called it "a masterpiece".[243] Steven Soderbergh said of the film, "Oppenheimer is a real accomplishment. I read somewhere that Chris [Nolan] implied that this is the movie he's been building toward, and I think he's right. And I'm thrilled that it's a massive hit."[244] Spike Lee also praised the film, calling it a 'great film', but felt that it should have showed what happened to the Japanese people, given the film's length.[245] Japanese director Takashi Yamazaki said, “As a person of Japanese ancestry and descent, my response to Oppenheimer [is that] I would like to dedicate a different film to that when that day comes.”[246]
+
+Influence on legislation
+The renewed attention to the Trinity site and associated nuclear testing encouraged the United States Congress to revise the Radiation Exposure Compensation Act (1990), which provided compensation programs for people affected by radiation and nuclear testing during the Cold War, known as "Downwinders" and primarily consisting of the Navajo Nation. The United States Senate approved amendments to accommodate additional services to people in New Mexico, but it has not passed through Congress as the House of Representatives had not yet debated its inclusion as part of the national defense bill for the 2024 fiscal year.[247]
+
+Accuracy and omissions
+
+President Truman's portrait of the Argentine leader José de San Martín did not arrive at the White House until 1946, more than a year after his meeting with Oppenheimer.[248][249]
+The film was noted for its accuracy, with some scenes being taken word-for-word out of the book or real life events.[250] Many of the changes are small embellishments or changes from real life. For example, Oppenheimer was not as excited about his discovery of black holes as shown in the film since he did not know how significant it would become. The study was indeed released on the same day Germany invaded Poland, as shown in the film. During the Trinity test, Donald Hornig had his hand on the kill switch for a faster reaction time and not near it as depicted in the film. Truman did call Oppenheimer a "crybaby" but in a letter to Dean Acheson one year later, not immediately after meeting Oppenheimer.[250][251]
+
+It was also pointed out that the incorrect American flag was used. In the film, the current 50-star flag is shown. This version was not adopted until 1960. During the war, the American flag had only 48 stars as Hawaii and Alaska had yet to become states.[252]
+
+The scene where Oppenheimer poisons his professor's apple is based on accounts that Oppenheimer gave of the incident, but it is unclear whether it occurred in real life.[253] Oppenheimer is depicted as putting potassium cyanide in the apple before having a change of heart the next day and narrowly preventing it from being eaten. There is no evidence that Niels Bohr nearly ate the apple or had any involvement in the incident.[250] Oppenheimer and Einstein were friends,[254] but the specific conversations which the film revolves around never happened.[250] Oppenheimer took his concerns about an unstoppable chain reaction to physicist Karl Compton at MIT, not Einstein.[250] Whereas, Arthur Compton at the Metallurgical Laboratory was the first to appoint Oppenheimer to take over the research into the bomb-design part of the Manhattan Project.[255]
+
+In addition to their interpersonal conflicts, Strauss had another reason to undermine Oppenheimer's credibility by revoking his security clearance: Oppenheimer was opposed to further development of the hydrogen bomb by the United States. Scott Sagan describes the loss of Oppenheimer's influence as a possible constraint upon the nuclear arms race between the US and USSR as a "broader tragedy" less clearly depicted in the film than the scientist's personal tragedy but he called the production "highly accurate" otherwise for a Hollywood film.[256]
+
+Many efforts undertaken at other Manhattan Project sites like Hanford, Washington and Oak Ridge, Tennessee were not shown.[251] Most of them, overseen by General Leslie Groves, focused on producing the radioactive material that powered the nuclear explosions.[257] In addition to the team at Los Alamos, those working at other Project sites, particularly the University of Chicago's Metallurgical Laboratory, also expressed concerns about using the atomic bomb against Japan.[258]
+
+Another technical problem accurately represented throughout the film was plutonium production. This can be analyzed through the occurrence of discussions of fizzle, ingenuity, engineering breakthroughs and setbacks, and once again, the determination to succeed. The film focused on the great cost it took to obtain the plutonium, as well as the overall process of breeding plutonium. Enrico Fermi, a main scientist involved in the Manhattan Project, was the one who discovered that plutonium was the element necessary to produce a spontaneous fission reaction.[259] His contributions to the Manhattan Project were not included in the film as much as they were recognized in real-life.
+
+In the film, a scene depicts the May 31, 1945, meeting of the Interim Committee, which J. Robert Oppenheimer attended as a member of the Scientific Panel of consultants. In this scene, Secretary of War Henry L. Stimson is portrayed ordering the removal of Kyoto from the list of top atomic bomb targets, allegedly because it was a favored honeymoon destination for him and his wife. However, historian of science and nuclear weapons, Alex Wellerstein, clarifies that this portrayal is a myth. According to Wellerstein, Stimson's diary from his 1926 travels with his wife does not mention Kyoto, and the only brief visit they made there was in 1929, during a single night stay while on a "fact-finding" mission related to his role as Governor-General of the Philippines. The film's depiction overlooks that Stimson's objection to targeting Kyoto was primarily strategic rather than personal. He expressed this viewpoint to President Truman on multiple occasions, including at the Potsdam Conference. Stimson wrote in his diary on July 24, 1945, "He [Truman] again reiterated with the utmost emphasis his own concurring belief on that subject, and he was particularly emphatic in agreeing with my suggestion that if elimination was not done, the bitterness which would be caused by such a wanton act might make it impossible during the long post-war period to reconcile the Japanese to us in that area rather than to the Russians."[260][261]
+
+An omission that drew some criticism was the lack of discussion of the impact of nuclear testing on the Indigenous population around the Trinity test site. Kate Gardner in a review of the film for physicsworld writes,
+
+The one glaring omission from the film is in fact 19,000 omissions – the number of people, mostly Indigenous, who lived near the Trinity test site in New Mexico. Oppenheimer implies the area was empty, side-stepping the thorny truth that local residents were not warned about the test at all – not even given a false story to prevent them from drinking the toxic rainwater that fell for the next few days.[262]
+
+Accolades
+Main article: List of accolades received by Oppenheimer (film)
+
+
+
+Murphy, Blunt and Downey Jr. were nominated for Academy Awards for Best Actor, Best Supporting Actress and Best Supporting Actor respectively, with Murphy and Downey Jr. subsequently winning their categories.
+Oppenheimer earned a leading 13 nominations at the 96th Academy Awards, becoming Nolan's most Oscar-nominated film.[263][264][265] At the ceremony, the film won Best Picture, Best Director, Best Actor for Murphy, Best Supporting Actor for Downey, Best Cinematography, Best Film Editing and Best Original Score.[266] Besides composer Göransson, all recipients were first-time Oscar winners, including Nolan, Thomas, Roven, Downey and van Hoytema, who had each earned previous Academy Award nominations.[267] Oppenheimer became both the highest-grossing and longest Best Picture winning film since 2003's The Lord of the Rings: The Return of the King.[268] The film was also nominated for Best Supporting Actress for Blunt, Best Adapted Screenplay, Best Sound, Best Production Design, Best Costume Design, and Best Makeup and Hairstyling.
+
+The film won numerous other accolades. It won a leading five Golden Globe Awards, receiving Best Motion Picture – Drama, Best Director for Nolan, Best Actor – Motion Picture Drama for Murphy, Best Supporting Actor – Motion Picture for Downey, and Best Original Score for Göransson at the 81st ceremony.[269][270][271] The National Board of Review and the American Film Institute named Oppenheimer one of the top-ten films of 2023.[272][273] Oppenheimer received nominations for 13 Critics' Choice Movie Awards (winning eight), 13 British Academy Film Awards (winning seven), 14 Saturn Awards (winning four), and four Screen Actors Guild Awards (winning three),[274][275][276] while its score earned three nominations at the 66th Annual Grammy Awards (winning one
